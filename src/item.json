@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68ffdfe851b1265735301b9a",
+    "userId": "68ffde6e04eb94aac242cdba",
+    "name": "Djdjdj",
+    "price": 30000,
+    "ShortDescription": "Dhdjdjxbx",
+    "LadingPages": [],
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/N62gnzvV/blob.png",
+      "https://i.ibb.co/7t274sx9/blob.png",
+      "https://i.ibb.co/4R6Wfjq7/blob.png"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-27T21:11:04.859Z",
+    "__v": 0
+  }
+]
